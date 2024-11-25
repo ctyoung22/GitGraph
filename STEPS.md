@@ -3,7 +3,7 @@ Ordered Commit to Repo -- Description (branch) <br>
 
 Commit 0 -- Update README.md, Add STEPS.md, Add memee.jpg (main)<br>
 Commit 1 -- Update STEPS.md, Increase brightness on memee.jpg (main)<br>
-Commit 2 -- <br>
+Commit 2 -- Update STEPS.md, Increase brightness on memee.jpg (main)<br>
 Commit 3 -- <br>
 Commit 4 -- <br>
 Commit 5 -- <br>
