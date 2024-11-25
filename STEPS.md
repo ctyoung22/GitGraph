@@ -7,7 +7,7 @@ Commit 2 -- Update STEPS.md, Increase brightness on memee.jpg (main)<br>
 Commit 3 -- Update STEPS.md, Increase saturation on memee.jpg (bug-fix)<br>
 Commit 4 -- Update STEPS.md, Increase saturation on memee.jpg (bug-fix)<br>
 Commit 5 -- Merge 2 and 4, Resolve conflict in STEPS.md and memee.jpg (bug-fix)<br>
-Commit 6 -- <br>
+Commit 6 -- Update STEPS.md, Increase sharpness on memee.jpg (bug-fix)<br>
 Commit 7 -- <br>
 Commit 8 -- <br>
 Commit 9 -- <br>
