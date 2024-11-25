@@ -8,9 +8,9 @@ Commit 3 -- Update STEPS.md, Increase saturation on memee.jpg (bug-fix)<br>
 Commit 4 -- Update STEPS.md, Increase saturation on memee.jpg (bug-fix)<br>
 Commit 5 -- Merge 2 and 4, Resolve conflict in STEPS.md and memee.jpg (bug-fix)<br>
 Commit 6 -- Update STEPS.md, Increase sharpness on memee.jpg (bug-fix)<br>
-Commit 7 -- <br>
-Commit 8 -- <br>
-Commit 9 -- <br>
+Commit 7 -- Update STEPS.md, Increase saturation on memee.jpg (bug-fix-experimental)<br>
+Commit 8 -- Update STEPS.md, Increase saturation on memee.jpg (bug-fix-experimental)<br>
+Commit 9 -- Update STEPS.md, Increase saturation on memee.jpg (bug-fix-experimental)<br>
 Commit 10 -- <br>
 Commit 11 -- <br>
 Commit 12 -- <br>
