@@ -15,4 +15,4 @@ Commit 10 -- Update STEPS.md, Increase highlights on memee.jpg (main)<br>
 Commit 11 -- Merge 6 and 9, Resolve conflict in STEPS.md and memee.jpg (bug-fix)<br>
 Commit 12 -- Update STEPS.md, Increase contrast on memee.jpg (bug-fix)<br>
 Commit 13 -- Merge 10 and 12, Resolve conflict in STEPS.md and memee.jpg (main)<br>
-Commit 14 -- <br>
+Commit 14 -- Update STEPS.md, Increase saturation on memee.jpg (main)
