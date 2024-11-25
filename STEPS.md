@@ -11,7 +11,7 @@ Commit 6 -- <br>
 Commit 7 -- <br>
 Commit 8 -- <br>
 Commit 9 -- <br>
-Commit 10 -- <br>
+Commit 10 -- Update STEPS.md, Increase highlights on memee.jpg (main)<br>
 Commit 11 -- <br>
 Commit 12 -- <br>
 Commit 13 -- <br>
