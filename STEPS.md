@@ -10,7 +10,7 @@ Commit 5 -- <br>
 Commit 6 -- <br>
 Commit 7 -- Update STEPS.md, Increase saturation on memee.jpg (bug-fix-experimental)<br>
 Commit 8 -- Update STEPS.md, Increase saturation on memee.jpg (bug-fix-experimental)<br>
-Commit 9 -- <br>
+Commit 9 -- Update STEPS.md, Increase saturation on memee.jpg (bug-fix-experimental)<br>
 Commit 10 -- <br>
 Commit 11 -- <br>
 Commit 12 -- <br>
